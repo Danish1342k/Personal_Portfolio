@@ -49,7 +49,7 @@ body {
 /* insight */
 section.intro {
     background-color: #4A89DC;
-    background-image: url(./image/download.svg);
+    background-image: url(/image/download.svg);
     border-radius: 10px 10px 0 0;
 }
 
