@@ -124,7 +124,7 @@ button.btn.btn-primary {
     filter: grayscale(100);
 } */
 
-section.about-me,
+/* section.about-me,
 section.work.experience,
 section.row.contact-side {
     animation-name: rightSide;
@@ -139,10 +139,14 @@ section.row.contact-side {
     100% {
         transform: translateX(0);
     }
-}
+} */
 
 
-section.Education:hover {
+section.about-me:hover,
+section.professional.skills:hover,
+section.work.experience:hover,
+section.Education:hover,
+section.row.contact-side:hover{
     animation-name: reveal;
     animation-duration: 3s;
     opacity: 1;
@@ -159,7 +163,7 @@ section.Education:hover {
     }
 }
 
-section.professional {
+/* section.professional {
     animation-name: leftSide;
     animation-duration: 3s;
 }
@@ -172,7 +176,7 @@ section.professional {
     100% {
         transform: translateX(0);
     }
-}
+} */
 
 /* aAbout Side */
 section.about-me h1,
