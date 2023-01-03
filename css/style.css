@@ -141,7 +141,7 @@ section.row.contact-side {
     }
 } */
 
-
+/* 
 section.about-me:hover,
 section.professional.skills:hover,
 section.work.experience:hover,
@@ -161,7 +161,7 @@ section.row.contact-side:hover{
     100% {
         opacity: 1;
     }
-}
+} */
 
 /* section.professional {
     animation-name: leftSide;
